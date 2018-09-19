@@ -1,2 +1,2 @@
 # hola-mundo
-hola
+varias prácticas para curso de C++
